@@ -1,4 +1,4 @@
-### **Hola! 👋 Soy Simón Barrios!** 
+### Hola! 👋 Soy Simón Barrios! 
 
 - 🔭 I’m currently working on Freelance
 - 🌱 I’m currently learning Python
